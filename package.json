@@ -1,0 +1,25 @@
+{
+  "name": "louis-odinot-website-portfolio",
+  "version": "1.0.0",
+  "description": "Louis Odinot Website Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass:build": "sass --no-source-map scss:css",
+    "sass:watch": "sass --no-source-map --watch scss:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LouisOdinot/Louis-Odinot.git"
+  },
+  "author": "Louis Odinot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LouisOdinot/Louis-Odinot/issues"
+  },
+  "homepage": "https://github.com/LouisOdinot/Louis-Odinot#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.7.2",
+    "bootstrap": "^5.3.5",
+    "sass": "^1.86.3"
+  }
+}
